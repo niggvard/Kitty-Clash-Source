@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da7d61bac6079b44970d77fdc3dc780, type: 3}
+  m_Name: BowCat
+  m_EditorClassIdentifier: 
+  <spawnBallImage>k__BackingField: {fileID: -540229404, guid: 600eecb8ed759ef47af7ab0f2a3bf2e1, type: 3}
+  <CardImage>k__BackingField: {fileID: 1481934188, guid: da03087a76ffc764f9d824f30acc8864, type: 3}
+  <SpawnCooldown>k__BackingField: 5
+  <unitPrefab>k__BackingField: {fileID: 7380630167923955666, guid: 928853e46e31c004099554aa33737b1e, type: 3}
+  <enemyPrefab>k__BackingField: {fileID: 7380630167923955666, guid: 30409dd384d6d4344a6bf0acd421fba0, type: 3}
+  <soulSprite>k__BackingField: {fileID: -1268010405, guid: 600eecb8ed759ef47af7ab0f2a3bf2e1, type: 3}
+  <UnitName>k__BackingField: Archer
+  <Rarity>k__BackingField: 0
+  <HP>k__BackingField: 40
+  <Damage>k__BackingField: 10
+  <Speed>k__BackingField: 20
+  <AttackInterval>k__BackingField: 1.5
+  <AttackRange>k__BackingField: 2
+  menuCard: {fileID: 0}

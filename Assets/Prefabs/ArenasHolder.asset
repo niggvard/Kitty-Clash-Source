@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32741520bc8fb0447a62fbd72505e432, type: 3}
+  m_Name: ArenasHolder
+  m_EditorClassIdentifier: 
+  <ArenaList>k__BackingField:
+  - <Name>k__BackingField: Wood
+    <TrophyRequirement>k__BackingField: 0
+    <UnlockableUnits>k__BackingField:
+    - {fileID: 11400000, guid: e1b5e397ec390cd4ba9846f2b33a8f16, type: 2}
+    - {fileID: 11400000, guid: 61f7cef3167387c43a0bd40e9d9f2dce, type: 2}
+    - {fileID: 11400000, guid: 0cbbbe39073f4403d9e93091b391a2ac, type: 2}
+    - {fileID: 11400000, guid: 22976169fb20a4dceb25c5ffa4bf4c33, type: 2}
+    <ChestsList>k__BackingField:
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 3860bbd6c84e2544a80ad0cd3ef7fb14, type: 2}
+      <chance>k__BackingField: 100
+    <arenaImage>k__BackingField: {fileID: 21300000, guid: 55d02059de36aef4a8e4f2e0ddca3e37, type: 3}
+    <GameplayBackground>k__BackingField: {fileID: 21300000, guid: 435a2b38c85a7644991d9c304e79077e, type: 3}
+  - <Name>k__BackingField: Bronze
+    <TrophyRequirement>k__BackingField: 20
+    <UnlockableUnits>k__BackingField:
+    - {fileID: 11400000, guid: 1ea9489c713854a899504768eafc13bd, type: 2}
+    - {fileID: 11400000, guid: 56fbf9e0449704b92b8a9b334a335d86, type: 2}
+    - {fileID: 11400000, guid: 5dc13758d94624af1b890aa09d04bcda, type: 2}
+    <ChestsList>k__BackingField:
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 4be4b5201d5132e4a92089b1595e7ebc, type: 2}
+      <chance>k__BackingField: 50
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 071dff80d2b613747a0910fa8a818646, type: 2}
+      <chance>k__BackingField: 100
+    <arenaImage>k__BackingField: {fileID: 21300000, guid: 44beee2b7b6334144989d717282e0d5b, type: 3}
+    <GameplayBackground>k__BackingField: {fileID: 21300000, guid: 0f20a5f7bfbdfb44cb184881fa8aca18, type: 3}
+  - <Name>k__BackingField: Silver
+    <TrophyRequirement>k__BackingField: 70
+    <UnlockableUnits>k__BackingField:
+    - {fileID: 11400000, guid: d99b98a2a358e429ea1e3d9c4a0076a7, type: 2}
+    - {fileID: 11400000, guid: c9fe4b56678b546b187c9621152bba37, type: 2}
+    <ChestsList>k__BackingField:
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 6604b1cea8e378e40bc8abeb0a9c99f7, type: 2}
+      <chance>k__BackingField: 50
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 2123e145b4b7a164ea0d19ff7c149dc4, type: 2}
+      <chance>k__BackingField: 50
+    <arenaImage>k__BackingField: {fileID: 21300000, guid: c9b7374b8c9b85243bb15344ed8b8c8e, type: 3}
+    <GameplayBackground>k__BackingField: {fileID: 21300000, guid: c9929ce1f79943f4bb1a7414739bab60, type: 3}
+  - <Name>k__BackingField: Gold
+    <TrophyRequirement>k__BackingField: 150
+    <UnlockableUnits>k__BackingField:
+    - {fileID: 11400000, guid: 391763b9732444c37a83969ace476d4f, type: 2}
+    - {fileID: 11400000, guid: 3f856dc9f4f71411ba80785e2e1d67f9, type: 2}
+    <ChestsList>k__BackingField:
+    - <Chest>k__BackingField: {fileID: 11400000, guid: ec87f007b71a6d54b9ed62c3f4cae821, type: 2}
+      <chance>k__BackingField: 10
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 7901b901bba51c24db4c3d30163d5d97, type: 2}
+      <chance>k__BackingField: 20
+    - <Chest>k__BackingField: {fileID: 11400000, guid: e1ed18515e4656241b8b4259b10e2caa, type: 2}
+      <chance>k__BackingField: 50
+    - <Chest>k__BackingField: {fileID: 11400000, guid: 7cc94f028497c814a9ad3603ff2dda14, type: 2}
+      <chance>k__BackingField: 10
+    <arenaImage>k__BackingField: {fileID: 21300000, guid: 676bf572f55b9e04f84b7c07c8faf588, type: 3}
+    <GameplayBackground>k__BackingField: {fileID: 21300000, guid: f6cf51ee24036a443a38ac5851b93dbd, type: 3}
+  - <Name>k__BackingField: Diamond
+    <TrophyRequirement>k__BackingField: 350
+    <UnlockableUnits>k__BackingField:
+    - {fileID: 11400000, guid: 349b6de7d69b2407889bfc6781a3d094, type: 2}
+    <ChestsList>k__BackingField:
+    - <Chest>k__BackingField: {fileID: 11400000, guid: e1ed18515e4656241b8b4259b10e2caa, type: 2}
+      <chance>k__BackingField: 100
+    - <Chest>k__BackingField: {fileID: 11400000, guid: edef68e2cc68c304e8d3446bf0f4067c, type: 2}
+      <chance>k__BackingField: 100
+    <arenaImage>k__BackingField: {fileID: 21300000, guid: 4a99415d7371c7b43bff63df7479d71f, type: 3}
+    <GameplayBackground>k__BackingField: {fileID: 21300000, guid: ea416c3d64b492242974f933e1e9caa9, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79ab2f4c9194abe4f816e9f26f92e58d, type: 3}
+  m_Name: RaritiesSettings
+  m_EditorClassIdentifier: 
+  <UpgradeCardRequirements>k__BackingField: 01000000050000000a000000140000003200000064000000
+  <Rarities>k__BackingField:
+  - <Name>k__BackingField: Common
+    <Color>k__BackingField: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
+    <UpgradeMoneyRequirements>k__BackingField: 0000000064000000c80000005e01000058020000e8030000
+  - <Name>k__BackingField: Rare
+    <Color>k__BackingField: {r: 0.11356357, g: 0.4092368, b: 0.8301887, a: 1}
+    <UpgradeMoneyRequirements>k__BackingField: 00000000c8000000900100005802000020030000b0040000
+  - <Name>k__BackingField: Epic
+    <Color>k__BackingField: {r: 0.77147734, g: 0.19339623, b: 0.7735849, a: 1}
+    <UpgradeMoneyRequirements>k__BackingField: 000000002c010000f4010000ee020000e8030000dc050000
+  - <Name>k__BackingField: Legendary
+    <Color>k__BackingField: {r: 1, g: 0.7727062, b: 0.0047169924, a: 1}
+    <UpgradeMoneyRequirements>k__BackingField: 00000000f4010000e8030000dc050000d0070000b80b0000

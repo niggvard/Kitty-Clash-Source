@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da7d61bac6079b44970d77fdc3dc780, type: 3}
+  m_Name: MeeleeUnit
+  m_EditorClassIdentifier: 
+  <spawnBallImage>k__BackingField: {fileID: -803226166, guid: 10d6dffd8e00a0b4abbdd9522b1e4a6c, type: 3}
+  <CardImage>k__BackingField: {fileID: -73247191, guid: da03087a76ffc764f9d824f30acc8864, type: 3}
+  <SpawnCooldown>k__BackingField: 3
+  <unitPrefab>k__BackingField: {fileID: 7149365751424461834, guid: 01b3638a3e2886943b87f4cba674f2be, type: 3}
+  <enemyPrefab>k__BackingField: {fileID: 4280184491365225261, guid: a4a51761a8e66499bb0435e4573066a5, type: 3}
+  <soulSprite>k__BackingField: {fileID: 446217290, guid: 10d6dffd8e00a0b4abbdd9522b1e4a6c, type: 3}
+  <UnitName>k__BackingField: Basic Cat
+  <Rarity>k__BackingField: 0
+  <HP>k__BackingField: 50
+  <Damage>k__BackingField: 20
+  <Speed>k__BackingField: 25
+  <AttackInterval>k__BackingField: 2
+  <AttackRange>k__BackingField: 0.7
+  menuCard: {fileID: 0}
